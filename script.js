@@ -1,5 +1,4 @@
 const output=document.getElementById("output");
-output.innerHTML="<h1>Hi My Name is Vamsi</h1>"
 
 let array=[1,2,3,4];
 let result=[];
